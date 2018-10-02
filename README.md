@@ -9,3 +9,5 @@
 
 ## Licensing
 *SevenShake-Android* is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/Todsphol/SevenShake-Android/blob/dev/LICENSE.txt) for the full license text.
+
+superman
